@@ -9,3 +9,11 @@
 ## ソフトウェア
 - Educar-Spicon_HMM23-B_alpha.1: HMM23-B基板用ソフトウェア(EducarSpiconLib_alpha.1)
 - Educar-Spicon_HMM25-B_alpha.1: HMM25-B基板用ソフトウェア(EducarSpiconLib_alpha.2)
+
+## Howto start
+- Prog06_contVfOmegaWifi_PIをダウンロード
+- フォルダ内のProg06_contVfOmegaWifi_PI.inoをArduino IDEで開く(RotaryEncoder ライブラリが必要)
+- ESP32に書き込む(IDEの設定は今後掲載）
+- iphoneなどでwifi-->ESP****に接続
+- webbrowerで、http://192.168.0.3　に接続
+- 走行用GUIで走行
