@@ -11,10 +11,11 @@
 - Educar-Spicon_HMM25-B_alpha.1: HMM25-B基板用ソフトウェア(EducarSpiconLib_alpha.2)
 
 ## Howto start
-- Prog06_contVfOmegaWifi_PIをダウンロード
-- フォルダ内のProg06_contVfOmegaWifi_PI.inoをArduino IDEで開く(RotaryEncoder ライブラリが必要)
+- Educar-Spicon_HMM23-B_alpha.1をダウンロード。
+- RotaryEncoderフォルダは、Arduinoのlibraryフォルダにコピーする。
+- Prog06_contVfOmegaWifi_PI-->Prog06_contVfOmegaWifi_PI.inoをArduino IDEで開く
 - ESP32に書き込む(IDEの設定は今後掲載）
-- iphoneなどでwifi-->ESP****に接続
+- iphoneなどでwifi-->ESP****に接続（各ロボットのESP32モジュールに表記）
 - webbrowerで、「192.168.0.3」 へに接続
 - 走行用GUIで走行
 
