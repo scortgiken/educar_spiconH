@@ -17,3 +17,5 @@
 - iphoneなどでwifi-->ESP****に接続
 - webbrowerで、「192.168.0.3」 へに接続
 - 走行用GUIで走行
+
+<img width="1840" height="1272" alt="image" src="https://github.com/user-attachments/assets/38d0f6ce-e9ba-49fa-a564-81e9ee446968" />
