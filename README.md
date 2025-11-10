@@ -15,5 +15,5 @@
 - フォルダ内のProg06_contVfOmegaWifi_PI.inoをArduino IDEで開く(RotaryEncoder ライブラリが必要)
 - ESP32に書き込む(IDEの設定は今後掲載）
 - iphoneなどでwifi-->ESP****に接続
-- webbrowerで、http://192.168.0.3　に接続
+- webbrowerで、「192.168.0.3」 へに接続
 - 走行用GUIで走行
