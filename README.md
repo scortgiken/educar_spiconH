@@ -8,7 +8,7 @@ ESP32を使った差動二輪ロボットの制御演習用プログラム集で
 - ESP32 Arduino（Espressif Systems）3.x系
 - RotaryEncoderライブラリ
 
-セットアップ手順は[環境構築手順](Document/Iinstallation/installationSetupManual.md)を参照してください。各プログラムは、それぞれのスケッチフォルダー内にある`.ino`ファイルをArduino IDEで開いて使用します。
+セットアップ手順は[環境構築手順](Document/Installation/installationSetupManual.md)を参照してください。各プログラムは、それぞれのスケッチフォルダー内にある`.ino`ファイルをArduino IDEで開いて使用します。
 
 ## フォルダー構成
 
