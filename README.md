@@ -14,15 +14,8 @@
 - Educar-Spicon_HMM25-B_alpha.1: HMM25-B基板用ソフトウェア(EducarSpiconLib_alpha.1)
   - Prog06_contVfOmegaWifi_PIのui更新
   - 単体動作確認プログラム追加（ProgEx05_contHeadingSteeringVel_Check）
-  - 環境構築用資料追加 
+  - 環境構築用資料追加
+- Educar-SpiconLib_v1: HMM25-B基板以降ソフトウェア 
 
-## Howto start
-- 「00_環境構築」を参考に開発環境を構築する
-- ロボットの制御基板対応のサンプルEducar-Spicon_HMMをダウンロード。
-- Prog06_contVfOmegaWifi_PI-->Prog06_contVfOmegaWifi_PI.inoをArduino IDEで開く（Web操作用）
-- ESP32に書き込む(IDEの設定は今後掲載）
-- iphoneなどでwifi-->ESP****に接続（各ロボットのESP32モジュールに表記）
-- webbrowerで、「192.168.0.3」 へに接続
-- 走行用GUIで走行
 
 <img width="1840" height="1272" alt="image" src="https://github.com/user-attachments/assets/38d0f6ce-e9ba-49fa-a564-81e9ee446968" />
